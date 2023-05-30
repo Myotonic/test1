@@ -15,14 +15,8 @@
 </head>
 <body>
 <div class="container panel panel-info">
-   <h3 class="panel-heading">index</h3>
-   
-   <p>master</p>
-   
-   
-   <p>change</p>
+   <h3 class="panel-heading">jesung</h3>
  
- 	<p>jesung</p>
  
 </div>
 </body>
