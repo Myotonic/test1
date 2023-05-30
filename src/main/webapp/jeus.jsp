@@ -16,7 +16,7 @@
 </head>
 <body>
 	<div class = "container panel panel-info">
-		<h3></h3>
+		<h3>내이름은 제우리</h3>
 	</div>
 </body>
 </html>
